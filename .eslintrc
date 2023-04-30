@@ -1,0 +1,19 @@
+{
+	"root": true,
+	"extends": "@react-native-community",
+	"rules": {
+		"indent": [
+			"error",
+			"tab"
+		],
+		"quotes": [
+			"error",
+			"double"
+		],
+		"comma-dangle": [
+			"error",
+			"never"
+		],
+		"semi": "off"
+	}
+}
